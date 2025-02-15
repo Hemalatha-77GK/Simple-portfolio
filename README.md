@@ -16,7 +16,7 @@ Feel free to explore the website and reach out if you'd like to collaborate or l
 ## Getting Started
 
 1. Clone the repository:  
-   [link]
+   https://hemalatha-77gk.github.io/Simple-portfolio/
    
 
 
